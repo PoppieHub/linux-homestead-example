@@ -19,7 +19,7 @@ sites:
     to: /home/vagrant/code/public
 
 databases:
-  - skill-php
+  - test
 
 features:
   - mysql: true
